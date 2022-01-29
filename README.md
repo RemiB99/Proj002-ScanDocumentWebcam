@@ -41,7 +41,7 @@ où méthode-extraction-contours est la méthode d'extraction de contours choisi
 
 Une fois le programme lancé, 2 fenêtres apparaissent :
 - Une fenêtre nommée "scan"
-- Une fenêtre nomée "scanned image"
+- Une fenêtre nommée "scanned image"
 
 La fenêtre "scan" donne une visualisation du flux vidéo capturé par la caméra.
 Le rectangle rouge représente la zone où l'utilisateur doit placer son document pour le scanner.
@@ -51,8 +51,8 @@ La fenêtre "scanned image" contient un carré noir au lancement du programme et
 
 ## Améliorations possibles
 
-- Lissage temporel pour améliorer la captation de l'image
+- Lissage temporel pour améliorer la captation du document
 - Application de filtres supplémentaires sur l'image de sortie pour améliorer sa qualité
 - Image fixe en sortie, qui peut ensuite être enregistrée dans les dossiers de l'utilisateur
-- Choix de différents formats d'images (A3, A4, A5)
+- Choix de différents formats de documents (A3, A4, A5)
 ...
