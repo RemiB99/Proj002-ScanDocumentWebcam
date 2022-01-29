@@ -10,9 +10,11 @@ L'utilisateur place le document qu'il souhaite scanner devant sa webcam, et obti
 ## Installation
 
 Pour fonctionner, ce programme nécessite d'avoir une version d'OpenCV fonctionnelle installée sur son système.
+
 Voir  [Installation OpenCV](https://docs.opencv.org/4.x/df/d65/tutorial_table_of_content_introduction.html) pour plus de détails.
 
 Afin d'utiliser OpenCV, il est également nécessaire d'avoir un compilateur C++ fonctionnel ainsi que l'outil de configuration de construction CMake
+
 Sous Linux :
 ```bash
 sudo apt install -y g++
