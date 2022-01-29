@@ -1,6 +1,6 @@
 # Proj002 : ScanDocumentWebcam
 
-Rémi Bouvier - M2 CMI Info - Unviersité Savoie Mont Blanc
+Rémi Bouvier - M2 CMI Info - Université Savoie Mont Blanc
 
 ## Description
 
@@ -35,7 +35,7 @@ et
 ```bash
 ./scan <methode-extraction-contours>
 ```
-où méthode-extraction-contours est la méthode d'extraction de contours choisie parmi "Canny" où "Watershed".
+où méthode-extraction-contours est la méthode d'extraction de contours choisie parmi "Canny" ou "Watershed".
 
 Une fois le programme lancé, 2 fenêtres apparaissent :
 - Une fenêtre nommée "scan"
